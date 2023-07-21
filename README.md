@@ -12,7 +12,7 @@ Webtanár: http://github.com
  
 [Webtanár](http:github.com)
 
-Ebben a sorban beillesztett `<i>kódrészlet</i>` van.
+Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
 
 ```
 $a = 23;
