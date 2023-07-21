@@ -1,5 +1,4 @@
 # GitProjekt
 
-Javítás
+A github oktató videóban tanultak 
 
-Még javítunk
