@@ -5,8 +5,8 @@
 - lista elemek
 - lista elem 2
 
-1 számozott lista
-2 számozott lista 2
+1. számozott lista
+2. számozott lista 2
  
 Webtanár: [http:github.com]  
 
