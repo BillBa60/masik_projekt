@@ -10,9 +10,9 @@
 $a = 105;
 $b = 22;
 $c = 12;
-$d = 34;
+$d = 36;
 
-
+// Github-on javítottam
 
 print $a + $b + c$ + d$;
 
