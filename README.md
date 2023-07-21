@@ -8,7 +8,7 @@
 1. számozott lista
 2. számozott lista 2
 
-Webtanár: http:github.com
+Webtanár: http://github.com
  
 [Webtanár:](http:github.com)
 
