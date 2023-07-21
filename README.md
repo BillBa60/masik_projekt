@@ -14,3 +14,9 @@ Webtanár: http://github.com
 
 `Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
 
+```
+$a = 23;
+$b = 11;
+echo $a + $b;
+```
+
