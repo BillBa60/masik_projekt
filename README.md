@@ -10,5 +10,5 @@
 
 Webtanár: http://github.com
  
-[Webtanár:](http:github.com)
+[Webtanár](http:github.com)
 
