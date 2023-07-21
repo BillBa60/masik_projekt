@@ -1,4 +1,5 @@
 # GitProjekt
 
-A github oktatóvideóban tanultak 
+A github oktatóvideóban tanultak
+================================
 
