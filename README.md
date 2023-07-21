@@ -1,6 +1,6 @@
 # GitProjekt
 
-*A github* oktatóvideóban tanultak
+*A github* oktatóvideóban tanultak  markdown nyelvi elemekkel
 ----------------------------------
 - lista elemek
 - lista elem 2
