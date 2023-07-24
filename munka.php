@@ -30,8 +30,9 @@ print $a + $b + c$ + d$;
 $x = 5;
 $y = 59;
 $z = 370;
+$p = 420;
 
-print "<br /><br />" . $z - $x - $y . "<br /><br />";
+print "<br /><br />" . $z - $x - $y -$p . "<br /><br />"; // erre is büszke vagyok
 
 
 
