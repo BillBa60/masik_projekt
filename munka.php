@@ -19,7 +19,7 @@ $d = 36;
 
 print $a + $b + c$ + d$;
 
-
+print $b + $d;
 
 
 // Itt a vége ...
