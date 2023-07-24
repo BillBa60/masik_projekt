@@ -1,5 +1,8 @@
 <?php
 
+
+// Ide is írtam 
+
 // Matematikai műveletek
 //======================
 
