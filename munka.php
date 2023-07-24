@@ -49,5 +49,6 @@ $nagy = 23;
 
 print ($kicsi * $nagy) . "<br /><br />";
 
+// A kód ezzel a sorral bővült.
 
 ?>
