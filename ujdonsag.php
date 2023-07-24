@@ -1,0 +1,5 @@
+<?php
+
+// Egy megjegyzés csak
+
+?>
